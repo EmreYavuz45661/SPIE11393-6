@@ -10,3 +10,5 @@ Python_Code: Python programs utilized for Neural Networks along with preprocessi
 Loss_Data: Storage folder for numpy arrays containing training and test loss data from Python_Code
 
 Paper_Images: Images used in paper, produced from Python_Data -> AccessNetwork.py
+
+Please contanct Emre Yavuz at eyavuz45661@gmail.com for any requests or help.
